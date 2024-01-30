@@ -7,8 +7,10 @@ assignees: momnpa333, wgwjh05169
 
 ---
 
-# Description
+# 이슈 이름 양식
+Feat#{issue number} {issue name}
 
+# Description
 설명을 작성하세요.
 # Todo
 
